@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"487a25e45c244bfc","type":"file","file":"Git/publish/Philosophy/Starting/Starting.md","x":-180,"y":-60,"width":400,"height":400},
+		{"id":"487a25e45c244bfc","type":"file","file":"Git/publish/Philosophy/Learning stuff/Starting.md","x":-180,"y":-60,"width":400,"height":400},
 		{"id":"bdf1d491cdfe6fbf","type":"text","text":"Philosophy","x":-180,"y":-180,"width":250,"height":60}
 	],
 	"edges":[]
